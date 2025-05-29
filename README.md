@@ -20,6 +20,12 @@ A curated list of web development projects built using React, Next.js, and custo
 
 ---
 
+### 3. **Invest Banking **
+- **Tech Stack:** Nextjs, , Tailwind CSS
+- 🔗 [Live Demo](https://invest-banking-website.vercel.app/)
+- 💻 [GitHub Repo](https://github.com/rasso7/Invest-banking-Website)
+
+---
 ### 3. **Landing Page Saas**
 - **Tech Stack:** Nextjs, , Tailwind CSS
 - 🔗 [Live Demo](https://next15saaskit.netlify.app/)
