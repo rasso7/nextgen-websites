@@ -20,14 +20,21 @@ A curated list of web development projects built using React, Next.js, and custo
 
 ---
 
-### 3. **Landing Page Saas**
+### 3. **Invest banking**
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Gsap
+- 🔗 [Live Demo](https://invest-banking-website.vercel.app/)
+- 💻 [GitHub Repo](https://github.com/rasso7/Invest-banking-Website)
+
+---
+
+### 4. **Landing Page Saas**
 - **Tech Stack:** Nextjs, , Tailwind CSS
 - 🔗 [Live Demo](https://next15saaskit.netlify.app/)
 - 💻 [GitHub Repo](https://github.com/rasso7/Next.js-15-Saas-Starter)
 
 ---
 
-### 4. **Healthcare**
+### 5. **Healthcare**
 - **Tech Stack:** Php,Wordpress
 - 🔗 [Live Demo](https://clinknp.com/)
 
